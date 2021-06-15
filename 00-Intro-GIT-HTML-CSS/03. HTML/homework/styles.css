@@ -1,0 +1,49 @@
+html {
+  /*display: block; */
+  /*box-sizing: border-box; */
+  /*text-aling: center; */
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+body { 
+       background-image: url(https://image.freepik.com/vector-gratis/conjunto-alimentos-saludables_1639-9335.jpg)
+}
+h1 {
+  color: chocolate;
+  font-family: "Helvetica";
+}
+h3, h4 {
+	color: darkgoldenrod;
+	font-family: "Helvetica";
+}
+
+div {
+	color: red;
+    font-family: "Helvetica";
+}
+hr {
+  padding: 1px solid black;
+}
+img { 
+   width: 400px;
+}
+
+#divClass {
+/*	aling-items: center;
+        justify-content: center;
+*/
+}
+#thirdDiv {
+   width: 400px;
+   height: 600px;
+   //background: red;
+   padding: 50px;
+   border: 5px solid black;
+   background-color: chocolate;
+   /*box-sizing: border-box;*/
+   /*text-align; center;*/
+}
+.spanId { font-size: 18px;
+
+}
